@@ -1,0 +1,12 @@
+google-cloud-aiplatform
+google-cloud-bigquery
+python-dotenv
+pandas
+db-dtypes
+plotly
+langchain
+langchain-google-genai
+langchain-anthropic
+langchain-openai
+langchain-community
+mcp
